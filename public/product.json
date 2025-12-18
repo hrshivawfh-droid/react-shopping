@@ -1,0 +1,12 @@
+{
+    "title" : "Apple iphone 15 (black,128gb)",
+    "price" : 65488,
+    "rating" : {"rate" : 4.6, "ratings" : 45332,"reviews" : 2430},
+    "offers" : [
+        "Bank offer 10% off",
+        "Bank Offer 20% off",
+        "Bank Offer 30% Off",
+        "Special Offer Free"
+    ],
+    "image":"iphone-black.JPG"
+}
